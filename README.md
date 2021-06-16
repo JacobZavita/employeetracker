@@ -15,6 +15,7 @@ Command-line application that allows users to view employees, roles, and departm
 Inquirer, mysql2, console.table
 # Usage
 launch with 'node index.js' in command-line
+![Screen Shot 2021-06-15 at 5 27 25 PM](https://user-images.githubusercontent.com/81720959/122139972-fc1bce00-cdfe-11eb-8422-baecc53dde47.png)
 # License
 This project is licensed under the MIT terms.
 # Contributing
